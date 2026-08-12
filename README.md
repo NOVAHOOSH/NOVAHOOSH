@@ -1,16 +1,19 @@
-## Hi there 👋
+# NOVAHOOSH
 
-<!--
-**NOVAHOOSH/NOVAHOOSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Intelligent Engineering
 
-Here are some ideas to get you started:
+We build intelligent systems that connect
+AI, Computer Vision, Robotics, Embedded Systems,
+and Advanced Control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Areas**
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Robotics & UAV Systems
+- Embedded & Edge AI
+- Advanced Control & MPC
+- Intelligent Automation
+
+Founder & Technical Lead:
+[Hosein Khandani]
+PhD in Control Engineering
